@@ -1,4 +1,8 @@
-import postsRepository from "../repositories/posts.repository.js";
+import postsRepository from '../repositories/posts.repository.js';
+
+postsRepository;
+
+postsRepository;
 
 class PostsService {
   #repository;
